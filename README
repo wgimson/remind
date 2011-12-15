@@ -1,0 +1,3 @@
+Here is a C program that dynamically allocates memory to structures depending 
+on the size of the user's reminder message, storing an array of pointers to 
+these structures. 
